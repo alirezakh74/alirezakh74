@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, alirezakhodabande74@gmail.com
 I’m currently learning how to make a Game Engine
-alirezakhodabande74@gmail.com
 
 <!--
 **alirezakh74/alirezakh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
