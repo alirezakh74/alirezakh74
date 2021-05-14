@@ -2,9 +2,9 @@
 ### I’m currently learning how to make a Game Engine
 alirezakhodabande74@gmail.com
 
-[![alirezakh74's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezakh74&show_icons=true&show_icons=true&theme=dark)](https://github.com/alirezakh74/github-readme-stats)
+[![alirezakh74's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezakh74&show_icons=true&theme=dark)](https://github.com/alirezakh74/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezakh74)](https://github.com/alirezakh74/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezakh74&show_icons=true&theme=dark)](https://github.com/alirezakh74/github-readme-stats)
 
 
 <!--
