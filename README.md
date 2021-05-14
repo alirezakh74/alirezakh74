@@ -2,7 +2,7 @@
 ### I’m currently learning how to make a Game Engine
 alirezakhodabande74@gmail.com
 
-[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezakh74)](https://github.com/alirezakh74/github-readme-stats)
+[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezakh74&show_icons=true)](https://github.com/alirezakh74/github-readme-stats)
 
 <!--
 **alirezakh74/alirezakh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
