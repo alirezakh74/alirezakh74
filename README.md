@@ -6,6 +6,8 @@ alirezakhodabande74@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezakh74&hide=html,javascript&show_icons=true&theme=radical)](https://github.com/alirezakh74/github-readme-stats)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?alirezakh74" frameborder="0"></iframe>
+
 
 <!--
 **alirezakh74/alirezakh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
